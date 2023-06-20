@@ -1,0 +1,19 @@
+{
+  "include": [""],
+  "exclude": ["doc"],
+  "stubPath": "/home/ubuntu/typings",
+  "reportTypeshedErrors": true,
+  "reportMissingImports": false,
+  "pythonVersion": "3.6",
+  "pythonPlatform": "Linux",
+  "executionEnvironments": [
+    {
+      "root": "/home/dgxadmin/anaconda3/envs/LeeYS/lib",
+      "pythonVersion": "3.0",
+      "extraPaths": ["src/backend"]
+    },
+    {
+      "root": "src"
+    }
+  ]
+}
